@@ -1,5 +1,8 @@
 # WallStreetStockAnalysisVBA
-VBA script to analyze real stock market data.
+
+Technology Used: VBA for Excel
+
+Summary: VBA script to analyze real stock market data.
 
 Created a script that will loop through all the stocks for three years for each run and take the following information.
 
