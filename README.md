@@ -14,6 +14,6 @@ It also has conditional formatting that highlights positive change in green and 
 
 This script is also able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" for every worksheet
 
-![2014 Data Analysis] (https://github.com/mirfakhrulhassan/WallStreetStockAnalysisVBA/blob/master/2014%20Result.JPG)
+![] (https://github.com/mirfakhrulhassan/WallStreetStockAnalysisVBA/blob/master/2014%20Result.JPG)
 
 **Technology Used:** ``VBA for Excel``
