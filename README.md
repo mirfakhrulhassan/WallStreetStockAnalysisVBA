@@ -1,8 +1,6 @@
 # WallStreetStockAnalysisVBA
 
-Technology Used: VBA for Excel
-
-Summary: VBA script to analyze real stock market data.
+**Summary:** VBA script to analyze real stock market data.
 
 Created a script that will loop through all the stocks for three years for each run and take the following information.
 
@@ -15,3 +13,5 @@ Created a script that will loop through all the stocks for three years for each 
 It also has conditional formatting that highlights positive change in green and negative change in red.
 
 This script is also able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" for every worksheet
+
+**Technology Used:** ``VBA for Excel``
